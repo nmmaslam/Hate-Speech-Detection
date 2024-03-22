@@ -1,5 +1,5 @@
 In this project,
-1.Basic Python python packages like pandas,numpy,matplotlib,warnings,sci-kit learn.
+1.Basic Python packages like pandas,numpy,matplotlib,warnings,sci-kit learn.
 2.Data Cleaning  
 3.Bar Chart
 4.Handling Imbalanced data :- oversampling or downsampling/undersampling
